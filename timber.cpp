@@ -79,7 +79,7 @@ int main()
 	float logSpeedY = -1500; 
 	//-------------------------------------------------------
 	Texture texturePlayer;
-	texturePlayer.loadFromFile("/home/student/2241016517_C++/gpwc/graphics/player.png");
+	texturePlayer.loadFromFile("https://github.com/Sahoobarsharani/Timber.cpp/blob/main/folder/player.png");
 	Sprite spritePlayer;
 	spritePlayer.setTexture(texturePlayer);
 	spritePlayer.setPosition(580,720);
