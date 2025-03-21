@@ -144,7 +144,7 @@ int main()
 	death.setBuffer(deathBuffer);
 	//--------------------------------------------------------
 	SoundBuffer chopBuffer;
-	chopBuffer.loadFromFile("/home/student/2241016517_C++/sound/chop.wav");
+	chopBuffer.loadFromFile("https://github.com/Sahoobarsharani/Timber.cpp/raw/refs/heads/main/chop.wav");
 	Sound chop;
 	chop.setBuffer(chopBuffer);
 	//--------------------------------------------------------
