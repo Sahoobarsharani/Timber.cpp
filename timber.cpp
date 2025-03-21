@@ -149,7 +149,7 @@ int main()
 	chop.setBuffer(chopBuffer);
 	//--------------------------------------------------------
 	SoundBuffer ootBuffer;
-	ootBuffer.loadFromFile("/home/student/2241016517_C++/sound/out_of_time.wav");
+	ootBuffer.loadFromFile("https://github.com/Sahoobarsharani/Timber.cpp/raw/refs/heads/main/out_of_time.wav");
 	Sound oot;
 	oot.setBuffer(ootBuffer);
 	//--------------------------------------------------------
