@@ -70,7 +70,7 @@ int main()
 	const float AXE_POSITION_RIGHT = 1075;
 	//-------------------------------------------------------
 	Texture textureLog;
-	textureLog.loadFromFile("/home/student/2241016517_C++/gpwc/graphics/log.png");
+	textureLog.loadFromFile("https://github.com/Sahoobarsharani/Timber.cpp/blob/main/folder/log.png");
 	Sprite spriteLog;
 	spriteLog.setTexture(textureLog);
 	spriteLog.setPosition(810,720);
