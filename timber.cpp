@@ -56,7 +56,7 @@ int main()
 	}
 	//-------------------------------------------------------
 	Texture textureBee;
-	textureBee.loadFromFile("/home/student/2241016517_C++/gpwc/graphics/bee.png");
+	textureBee.loadFromFile("https://github.com/Sahoobarsharani/Timber.cpp/blob/main/folder/bee.png");
 	Sprite spriteBee;
 	spriteBee.setTexture(textureBee);
 	spriteBee.setPosition(8,800);
