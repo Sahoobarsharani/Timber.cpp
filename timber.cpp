@@ -28,19 +28,19 @@ int main()
 	spriteTree.setPosition(810,0);
 	//-------------------------------------------------------
 	Texture textureCloud1;
-	textureCloud1.loadFromFile("/home/student/2241016517_C++/gpwc/graphics/cloud.png");
+	textureCloud1.loadFromFile("https://github.com/Sahoobarsharani/Timber.cpp/blob/main/folder/cloud.png");
 	Sprite spriteCloud1;
 	spriteCloud1.setTexture(textureCloud1);
 	spriteCloud1.setPosition(0,0);
 	//-------------------------------------------------------
 	Texture textureCloud2;
-	textureCloud2.loadFromFile("/home/student/2241016517_C++/gpwc/graphics/cloud.png");
+	textureCloud2.loadFromFile("https://github.com/Sahoobarsharani/Timber.cpp/blob/main/folder/cloud.png");
 	Sprite spriteCloud2;
 	spriteCloud2.setTexture(textureCloud2);
 	spriteCloud2.setPosition(0,250);
 	//-------------------------------------------------------
 	Texture textureCloud3;
-	textureCloud3.loadFromFile("/home/student/2241016517_C++/gpwc/graphics/cloud.png");
+	textureCloud3.loadFromFile("https://github.com/Sahoobarsharani/Timber.cpp/blob/main/folder/cloud.png");
 	Sprite spriteCloud3;
 	spriteCloud3.setTexture(textureCloud3);
 	spriteCloud3.setPosition(0,500);
