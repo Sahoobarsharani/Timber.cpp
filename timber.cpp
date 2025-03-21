@@ -62,7 +62,7 @@ int main()
 	spriteBee.setPosition(8,800);
 	//-------------------------------------------------------
 	Texture textureAxe;
-	textureAxe.loadFromFile("/home/student/2241016517_C++/gpwc/graphics/axe.png");
+	textureAxe.loadFromFile("https://github.com/Sahoobarsharani/Timber.cpp/blob/main/folder/axe.png");
 	Sprite spriteAxe;
 	spriteAxe.setTexture(textureAxe);
 	spriteAxe.setPosition(700,830);
