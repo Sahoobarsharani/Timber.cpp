@@ -139,7 +139,7 @@ int main()
 	//Game Sounds
 	//--------------------------------------------------------
 	SoundBuffer deathBuffer;
-	deathBuffer.loadFromFile("/home/student/2241016517_C++/sound/death.wav");
+	deathBuffer.loadFromFile("https://github.com/Sahoobarsharani/Timber.cpp/raw/refs/heads/main/death.wav");
 	Sound death;
 	death.setBuffer(deathBuffer);
 	//--------------------------------------------------------
