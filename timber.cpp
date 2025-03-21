@@ -46,7 +46,7 @@ int main()
 	spriteCloud3.setPosition(0,500);
 	//-------------------------------------------------------
 	Texture textureBranch;
-	textureBranch.loadFromFile("/home/student/2241016517_C++/gpwc/graphics/branch.png");
+	textureBranch.loadFromFile("https://github.com/Sahoobarsharani/Timber.cpp/blob/main/folder/branch.png");
 	Sprite spriteBranch[NUM_BRANCHES];
 	for (int i = 0; i < NUM_BRANCHES; i++)
 	{
