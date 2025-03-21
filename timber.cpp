@@ -92,7 +92,7 @@ int main()
 	spriteRip.setPosition(600,860);
 	//-------------------------------------------------------
 	Font font;
-	font.loadFromFile("/home/student/2241016517_C++/gpwc/font/KOMIKAP_.ttf");
+	font.loadFromFile("https://github.com/Sahoobarsharani/Timber.cpp/blob/main/folder/KOMIKAP_.ttf");
 	Text messageText;
 	messageText.setFont(font);
 	messageText.setString("Enter to Start!!");
