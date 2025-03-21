@@ -22,7 +22,7 @@ int main()
 	spriteBackground.setPosition(0,0);
 	//-------------------------------------------------------
 	Texture textureTree;
-	textureTree.loadFromFile("/home/student/2241016517_C++/gpwc/graphics/tree.png");
+	textureTree.loadFromFile("https://github.com/Sahoobarsharani/Timber.cpp/blob/main/folder/tree.png");
 	Sprite spriteTree;
 	spriteTree.setTexture(textureTree);
 	spriteTree.setPosition(810,0);
