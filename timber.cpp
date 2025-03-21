@@ -86,7 +86,7 @@ int main()
 	side playerSide = side::LEFT;
 	//-------------------------------------------------------
 	Texture textureRip;
-	textureRip.loadFromFile("/home/student/2241016517_C++/gpwc/graphics/rip.png");
+	textureRip.loadFromFile("https://github.com/Sahoobarsharani/Timber.cpp/blob/main/folder/rip.png");
 	Sprite spriteRip;
 	spriteRip.setTexture(textureRip);
 	spriteRip.setPosition(600,860);
